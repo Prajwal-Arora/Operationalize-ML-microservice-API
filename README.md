@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/Prajwal-Arora/Operationalize-ML-microservice-API.svg?style=svg)](https://circleci.com/gh/Prajwal-Arora/Operationalize-ML-microservice-API)
 
 ## Project Overview
 
